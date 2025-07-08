@@ -1,0 +1,5 @@
+// Expected format for scraped content
+{"id": "doc1", "text": "Sample text for document 1"}
+{"id": "doc2", "text": "Sample text for document 2"}
+
+// file too large to push on Github
