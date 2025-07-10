@@ -1,0 +1,12 @@
+.env
+notes.py
+hi.py
+main.py
+notes_copy.py
+output/mosdac_pdfs.jsonl
+output/mosdac_pdfs_text.jsonl
+output/downloaded_pdfs
+__pycache__
+knowledge_graph_handler/__pycache__
+output/modsac_scraped_final.jsonl
+GeoIntelBot-backups/
